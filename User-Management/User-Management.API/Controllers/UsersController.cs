@@ -43,7 +43,7 @@ namespace User_Management.API.Controllers
             return user;
         }
 
-        [HttpDelete] 
+        [HttpDelete("{id}")] 
         public void Delete(int id)
         {
             var deletedUser = _users.FirstOrDefault(x => x.Id == id);

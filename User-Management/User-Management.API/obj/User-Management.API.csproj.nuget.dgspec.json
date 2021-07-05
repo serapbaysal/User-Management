@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serap\\Desktop\\User-Management\\User-Management.API\\User-Management.API.csproj": {}
+    "C:\\Users\\serap\\Source\\Repos\\UserManagement\\User-Management\\User-Management.API\\User-Management.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serap\\Desktop\\User-Management\\User-Management.API\\User-Management.API.csproj": {
+    "C:\\Users\\serap\\Source\\Repos\\UserManagement\\User-Management\\User-Management.API\\User-Management.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serap\\Desktop\\User-Management\\User-Management.API\\User-Management.API.csproj",
+        "projectUniqueName": "C:\\Users\\serap\\Source\\Repos\\UserManagement\\User-Management\\User-Management.API\\User-Management.API.csproj",
         "projectName": "User-Management.API",
-        "projectPath": "C:\\Users\\serap\\Desktop\\User-Management\\User-Management.API\\User-Management.API.csproj",
+        "projectPath": "C:\\Users\\serap\\Source\\Repos\\UserManagement\\User-Management\\User-Management.API\\User-Management.API.csproj",
         "packagesPath": "C:\\Users\\serap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serap\\Desktop\\User-Management\\User-Management.API\\obj\\",
+        "outputPath": "C:\\Users\\serap\\Source\\Repos\\UserManagement\\User-Management\\User-Management.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\serap\\AppData\\Roaming\\NuGet\\NuGet.Config",
