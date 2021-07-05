@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pLvmnRkCF+IPX0JwHFnFhqMXUKIOiSGUp4J3XRTn92qJH6RF/houQ+hDd8Jxgj3vtQ3gHDhUQY8plsspRif5dA==",
+  "dgSpecHash": "BpZId+ZF1VGuPCzsizxc0cWZ4VcqpEMiyasqZFXrqL0pxWvoJp3HIaLegFLDg4yAkXnpa5j/rGuJUFce4Ih45A==",
   "success": true,
   "projectFilePath": "C:\\Users\\serap\\Desktop\\User-Management\\User-Management.API\\User-Management.API.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\serap\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

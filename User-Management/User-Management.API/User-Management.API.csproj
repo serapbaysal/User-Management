@@ -5,4 +5,8 @@
     <RootNamespace>User_Management.API</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Bogus" Version="33.0.2" />
+  </ItemGroup>
+
 </Project>
